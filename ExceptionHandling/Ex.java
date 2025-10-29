@@ -48,7 +48,7 @@ class Ex
      finally{
 		 
          System.out.println(a);
-         System.out.println(a/b);
+     
      }
 	}
 }
